@@ -2,7 +2,7 @@
 
 This repository contains a collection of exercises and implementations of fundamental Data Structures and Algorithms, developed during my Computer Engineering studies. 
 
-
+The implementations of the different Algorithms and data structures are from https://github.com/migueltoro/adda_v5
 
 ## 📂 Topics Covered
 
