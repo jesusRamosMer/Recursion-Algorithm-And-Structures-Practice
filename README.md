@@ -39,6 +39,8 @@ Graph theory implementations and navigation algorithms.
 Each exercise is self-contained. To run a specific algorithm:
 
 1. Clone this repository.
-2. Open the project in your favorite IDE (IntelliJ, Eclipse, VS Code).
-3. Navigate to the specific topic folder (e.g., `src/trees`).
-4. Run the `main` method of the desired file to see the output.
+2. Clone also the implementations of the classes(in my profile or in https://github.com/migueltoro/adda_v5)
+3. Open the project in your favorite IDE (IntelliJ, Eclipse, VS Code).
+4. in the build path add the folders of the implementations "ParteComun" "EjemplosParteComun" "Grafos" and "Geneticos"
+5. Navigate to the specific topic folder
+6. Run the `main` method of the desired file to see the output of the tests(nowadays i haven't uploaded the tests so this step isn't finished).
