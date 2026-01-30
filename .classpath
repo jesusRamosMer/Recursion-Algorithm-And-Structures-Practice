@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosParteComun">
+	<classpathentry combineaccessrules="false" kind="src" path="/ParteComun">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -16,7 +16,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/ParteComun">
+	<classpathentry combineaccessrules="false" kind="src" path="/Geneticos">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/EjemplosParteComun">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>

@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Arboles;
 
 import java.util.List;
 
